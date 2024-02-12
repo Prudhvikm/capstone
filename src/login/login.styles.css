@@ -1,0 +1,179 @@
+/* LoginForm.styles.css */
+
+.login-main-grid-section {
+    height: 100vh;
+  }
+  
+  .collecraft-login-form-section {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .college-application-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .collegecraft-headername {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .collgecrafticon {
+    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .login-header-section {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .welcomeback-text-section {
+    margin-top: 1rem;
+  }
+  
+  .welcomeback-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .login-form-fields {
+    margin-bottom: 1.5rem;
+  }
+  
+  .login-form-email-header,
+  .login-form-password-header {
+    font-size: 0.9rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  
+  .text-element {
+    width: 30%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.2s;
+  }
+  
+  .text-element:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  small {
+    color: #dc3545;
+    font-size: 0.8rem;
+  }
+  
+  .remember-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  .checkbox-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .remember-checkbox {
+    margin-right: 0.5rem;
+  }
+  
+  .remember-text {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .login-forgot-password {
+    margin-top: 0.5rem;
+  }
+  
+  .login-forgot-pwd-label {
+    font-size: 0.9rem;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .sign-in-btn-align {
+    margin-top: 1.5rem;
+  }
+  
+  .login-create-sign-section {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .login-create-sign-section:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-signup-btn-section {
+    margin-top: 1rem;
+  }
+  
+  .login-signup-btn {
+    background-color: #ccc;
+    color: #000;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .login-signup-btn:hover {
+    background-color: #b3b3b3;
+  }
+  
+  .me-2 {
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+  
+  .login-signup-btn-lable {
+    margin-left: 8px;
+  }
+  
+  .donthave-account-section {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .have-account {
+    margin-right: 0.5rem;
+  }
+  
+  .dont-have-account-signup {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .dont-have-account-signup:hover {
+    text-decoration: underline;
+  }
+  
+  .login-bottom-section {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  .copy-right,
+  .DressUp-email {
+    font-size: 0.8rem;
+    color: #555;
+  }
+  
